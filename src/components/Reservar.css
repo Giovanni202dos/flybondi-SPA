@@ -1,0 +1,14 @@
+.tarjet-pasaje-reserva{
+    
+    height: 100vh;
+    background-color: bisque;
+    padding: 16px; /* Espaciado interno */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.856); /* Agrega la sombra */
+}
+.boton-comprar{
+    color: black;
+    background-color: rgb(238, 245, 245);
+    border: rgba(0, 0, 0, 0.856) solid;
+    border-radius: 50px;
+}
